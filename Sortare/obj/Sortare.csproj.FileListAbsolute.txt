@@ -1,0 +1,136 @@
+C:\Users\Profesor\Desktop\Sortare\Sortare\obj\Debug\Sortare.exe
+C:\Users\Profesor\Desktop\Sortare\Sortare\obj\Debug\Sortare.pdb
+D:\Enache Alexandru\C#\Sortare\Sortare\obj\Debug\Sortare.exe
+D:\Enache Alexandru\C#\Sortare\Sortare\obj\Debug\Sortare.pdb
+D:\Enache Alexandru\C#\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+D:\Enache Alexandru\C#\Sortare\Sortare\obj\Debug\Sortare.Form1.resources
+D:\Enache Alexandru\C#\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+D:\Enache Alexandru\C#\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+D:\Enache Alexandru\C#\Sortare\Sortare\bin\Debug\Sortare.exe
+D:\Enache Alexandru\C#\Sortare\Sortare\bin\Debug\Sortare.pdb
+E:\Sortare\Sortare\obj\Debug\Sortare.exe
+E:\Sortare\Sortare\obj\Debug\Sortare.pdb
+C:\Users\Enache\Desktop\Sortare\Sortare\bin\Debug\Sortare.exe
+C:\Users\Enache\Desktop\Sortare\Sortare\bin\Debug\Sortare.pdb
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\Sortare.Form1.resources
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\Sortare.exe
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\Sortare.pdb
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+C:\Users\Enache\Desktop\Sortare\Sortare\bin\Release\Sortare.exe
+C:\Users\Enache\Desktop\Sortare\Sortare\bin\Release\Sortare.pdb
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\Sortare.Form1.resources
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\Sortare.FrmNext.resources
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\Sortare.Properties.Resources.resources
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\Sortare.csproj.GenerateResource.Cache
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\Sortare.exe
+C:\Users\Enache\Desktop\Sortare\Sortare\obj\Release\Sortare.pdb
+D:\New folder\Sortare\Sortare\bin\Debug\Sortare.exe
+D:\New folder\Sortare\Sortare\bin\Debug\Sortare.pdb
+D:\New folder\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\Sortare\Sortare\obj\Debug\Sortare.Form1.resources
+D:\New folder\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+D:\New folder\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+D:\New folder\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+D:\New folder\Sortare\Sortare\obj\Debug\Sortare.exe
+D:\New folder\Sortare\Sortare\obj\Debug\Sortare.pdb
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.exe
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.pdb
+D:\Enache Alexandru\Atestat\Sortare\Sortare\bin\Debug\Sortare.exe
+D:\Enache Alexandru\Atestat\Sortare\Sortare\bin\Debug\Sortare.pdb
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.exe
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.pdb
+E:\Atestat\Sortare\Sortare\bin\Debug\Sortare.exe
+E:\Atestat\Sortare\Sortare\bin\Debug\Sortare.pdb
+E:\Atestat\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\bin\Debug\Sortare.exe
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\bin\Debug\Sortare.pdb
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.exe
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.pdb
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSort.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.Meniu.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSort.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.Meniu.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.Meniu.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSort.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSortDescriere.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSort.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSortDescriere.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSort.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSortDescriere.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.exe
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.pdb
+D:\Atestat\Sortare\Sortare\bin\Debug\Sortare.exe
+D:\Atestat\Sortare\Sortare\bin\Debug\Sortare.pdb
+D:\Atestat\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSort.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSortDescriere.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSort.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSortDescriere.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.Meniu.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSort.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSortDescriere.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSort.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSortDescriere.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSortDescriere.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSort.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSortDescriere.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSort.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSortDescriere.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSort.resources
+D:\Enache Alexandru\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSortDescriere.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSort.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.BubbleSortDescriere.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.InsertionSortDescriere.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSort.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSortDescriere.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSort.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSortDescriere.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSort.resources
+E:\Atestat\Sortare\Sortare\obj\Debug\Sortare.SelectionSortDescriere.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSort.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSortDescriere.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSort.resources
+C:\Users\Enache\Desktop\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSortDescriere.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSort.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.MergeSortDescriere.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSort.resources
+D:\Atestat\Sortare\Sortare\obj\Debug\Sortare.QuickSortDescriere.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.exe
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.pdb
+E:\Metode de sortare C#\Sortare\Sortare\bin\Debug\Sortare.exe
+E:\Metode de sortare C#\Sortare\Sortare\bin\Debug\Sortare.pdb
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\ResolveAssemblyReference.cache
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.BubbleSort.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.BubbleSortDescriere.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.FrmNext.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.InsertionSort.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.InsertionSortDescriere.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.MergeSort.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.MergeSortDescriere.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.Meniu.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.Properties.Resources.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.QuickSort.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.QuickSortDescriere.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.SelectionSort.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.SelectionSortDescriere.resources
+E:\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.csproj.GenerateResource.Cache
+D:\Atestat\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.exe
+D:\Atestat\Metode de sortare C#\Sortare\Sortare\obj\Debug\Sortare.pdb
